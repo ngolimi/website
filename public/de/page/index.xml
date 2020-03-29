@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ngolimi</title>
+    <link>https://ngolimi.org/de/page/</link>
+    <description>Recent content in Pages on ngolimi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 07:38:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://ngolimi.org/de/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Liste unserer Projekte wird am 31sten März enthüllt</title>
+      <link>https://ngolimi.org/de/page/launch/</link>
+      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/de/page/launch/</guid>
+      <description>Die Liste unserer Projekte wird am 31sten März enthüllt </description>
+    </item>
+    
+  </channel>
+</rss>

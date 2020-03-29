@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ngolimi</title>
+    <link>https://ngolimi.org/fr/</link>
+    <description>Recent content on ngolimi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 07:38:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://ngolimi.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ngolimi?</title>
+      <link>https://ngolimi.org/fr/about/</link>
+      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/fr/about/</guid>
+      <description>ngolimi &amp;hellip; signifie par la parole en langue zouloue. Et que serait plus logique qu&amp;rsquo;un nom zoulou pour le projet à but non-lucratif d&amp;rsquo;une linguiste informaticienne iranienne et d&amp;rsquo;un ingénieur linguiste allemand, les deux résidents en Suisse francophone ?
+     Nos activités Conseil en ingéniérie linguistique pour ONGs, grandes et petites Peut-être que c&amp;rsquo;est cela, le ngo dans ngolimi ?
+De la stratégie à l&amp;rsquo;implémentation — nous vous aidons à communiquer avec vos audiences dans les langues qu&amp;rsquo;elles parlent vraiment.</description>
+    </item>
+    
+    <item>
+      <title>La liste de nos projets sera dévoilée le 31 mars</title>
+      <link>https://ngolimi.org/fr/page/launch/</link>
+      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/fr/page/launch/</guid>
+      <description>La liste de nos projets sera dévoilée le 31 mars </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ngolimi.org/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ngolimi.org/fr/contact/</guid>
+      <description>ngolimi
+c/o Impact Hub Geneva
+Rue Fendt 1
+1002 Genève
+Suisse
+info@ngolimi.org</description>
+    </item>
+    
+  </channel>
+</rss>

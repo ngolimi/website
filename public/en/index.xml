@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ngolimi</title>
+    <link>https://ngolimi.org/en/</link>
+    <description>Recent content on ngolimi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 07:38:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://ngolimi.org/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ngolimi?</title>
+      <link>https://ngolimi.org/en/about/</link>
+      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/en/about/</guid>
+      <description>ngolimi &amp;hellip; is Zulu for through language. And what would be more logical for an Iranian computational linguist and a German language technology manager, both living in French-speaking Switzerland, than to choose a Zulu name for their nonprofit project?
+     What we do Language technology consultancy for NGOs, large and small Maybe that&amp;rsquo;s the ngo in ngolimi ? From strategy to implementation — we want to help you communicate with your audiences in the languages they actually speak.</description>
+    </item>
+    
+    <item>
+      <title>Our list of projects will be unveiled on March 31st</title>
+      <link>https://ngolimi.org/en/page/launch/</link>
+      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/en/page/launch/</guid>
+      <description>Our list of projects will be unveiled on March 31st </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ngolimi.org/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ngolimi.org/en/contact/</guid>
+      <description>ngolimi
+c/o Impact Hub Geneva
+Rue Fendt 1
+1002 Geneva
+Switzerland
+info@ngolimi.org</description>
+    </item>
+    
+  </channel>
+</rss>

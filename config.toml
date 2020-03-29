@@ -1,0 +1,115 @@
+baseURL = "https://ngolimi.org/"
+languageCode = "en-us"
+title = "ngolimi"
+theme = "minimal"
+googleAnalytics = ""
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+
+[languages]
+  [languages.fa]
+    contentDir = "content/fa"
+    languagedirection = "rtl"
+    languageName = "ﻑﺍﺮﺳی"
+    title = "ngolimi"
+    weight = 2
+  [languages.de]
+    contentDir = "content/de"
+    languageName = "Deutsch"
+    title = "ngolimi"
+    weight = 3
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    title = "ngolimi"
+    weight = 1
+  [languages.fr]
+    contentDir = "content/fr"
+    languageName = "Français"
+    title = "ngolimi"
+    weight = 4
+
+[params]
+    description = "ngolimi"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+
+#English
+[[languages.en.menu.main]]
+    url = "/en/page/"
+    name = "Projects"
+    weight = 4
+[[languages.en.menu.icon]]
+    url = "https://github.com/ngolimi/"
+    name = "github"
+    weight = 2
+[[languages.en.menu.icon]]
+    url = "https://www.linkedin.com/company/ngolimi"
+    name = "linkedin"
+    weight = 4
+[[languages.en.menu.icon]]
+    url = "https://twitter.com/ngolimi/"
+    name = "twitter"
+    weight = 3
+
+#German
+[[languages.de.menu.main]]
+    url = "/de/page/"
+    name = "Projekte"
+    weight = 4
+[[languages.de.menu.icon]]
+    url = "https://github.com/ngolimi/"
+    name = "github"
+    weight = 2
+[[languages.de.menu.icon]]
+    url = "https://www.linkedin.com/company/ngolimi"
+    name = "linkedin"
+    weight = 4
+[[languages.de.menu.icon]]
+    url = "https://twitter.com/ngolimi/"
+    name = "twitter"
+    weight = 3
+
+#French
+[[languages.fr.menu.main]]
+    url = "/fr/page/"
+    name = "Projets"
+    weight = 4
+[[languages.fr.menu.icon]]
+    url = "https://github.com/ngolimi/"
+    name = "github"
+    weight = 2
+[[languages.fr.menu.icon]]
+    url = "https://www.linkedin.com/company/ngolimi"
+    name = "linkedin"
+    weight = 4
+[[languages.fr.menu.icon]]
+    url = "https://twitter.com/ngolimi/"
+    name = "twitter"
+    weight = 3
+
+#Farsi
+[[languages.fa.menu.main]]
+    url = "/fa/page/"
+    name = "Projects"
+    weight = 4
+[[languages.fa.menu.icon]]
+    url = "https://github.com/ngolimi/"
+    name = "github"
+    weight = 2
+[[languages.fa.menu.icon]]
+    url = "https://www.linkedin.com/company/ngolimi"
+    name = "linkedin"
+    weight = 4
+[[languages.fa.menu.icon]]
+    url = "https://twitter.com/ngolimi/"
+    name = "twitter"
+    weight = 3
