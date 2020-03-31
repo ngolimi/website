@@ -47,69 +47,69 @@ enableRobotsTXT = true
     url = "/en/page/"
     name = "Projects"
     weight = 4
-[[languages.en.menu.icon]]
-    url = "https://github.com/ngolimi/"
-    name = "github"
-    weight = 2
-[[languages.en.menu.icon]]
-    url = "https://www.linkedin.com/company/ngolimi"
-    name = "linkedin"
-    weight = 4
-[[languages.en.menu.icon]]
-    url = "https://twitter.com/ngolimi/"
-    name = "twitter"
-    weight = 3
+#[[languages.en.menu.icon]]
+    #url = "https://github.com/ngolimi/"
+    #name = "github"
+    #weight = 2
+#[[languages.en.menu.icon]]
+    #url = "https://www.linkedin.com/company/ngolimi"
+    #name = "linkedin"
+    #weight = 4
+#[[languages.en.menu.icon]]
+    #url = "https://twitter.com/ngolimi/"
+    #name = "twitter"
+    #weight = 3
 
 #German
 [[languages.de.menu.main]]
     url = "/de/page/"
     name = "Projekte"
     weight = 4
-[[languages.de.menu.icon]]
-    url = "https://github.com/ngolimi/"
-    name = "github"
-    weight = 2
-[[languages.de.menu.icon]]
-    url = "https://www.linkedin.com/company/ngolimi"
-    name = "linkedin"
-    weight = 4
-[[languages.de.menu.icon]]
-    url = "https://twitter.com/ngolimi/"
-    name = "twitter"
-    weight = 3
+#[[languages.de.menu.icon]]
+    #url = "https://github.com/ngolimi/"
+    #name = "github"
+    #weight = 2
+#[[languages.de.menu.icon]]
+    #url = "https://www.linkedin.com/company/ngolimi"
+    #name = "linkedin"
+    #weight = 4
+#[[languages.de.menu.icon]]
+    #url = "https://twitter.com/ngolimi/"
+    #name = "twitter"
+    #weight = 3
 
 #French
 [[languages.fr.menu.main]]
     url = "/fr/page/"
     name = "Projets"
     weight = 4
-[[languages.fr.menu.icon]]
-    url = "https://github.com/ngolimi/"
-    name = "github"
-    weight = 2
-[[languages.fr.menu.icon]]
-    url = "https://www.linkedin.com/company/ngolimi"
-    name = "linkedin"
-    weight = 4
-[[languages.fr.menu.icon]]
-    url = "https://twitter.com/ngolimi/"
-    name = "twitter"
-    weight = 3
+#[[languages.fr.menu.icon]]
+    #url = "https://github.com/ngolimi/"
+    #name = "github"
+    #weight = 2
+#[[languages.fr.menu.icon]]
+    #url = "https://www.linkedin.com/company/ngolimi"
+    #name = "linkedin"
+    #weight = 4
+#[[languages.fr.menu.icon]]
+    #url = "https://twitter.com/ngolimi/"
+    #name = "twitter"
+    #weight = 3
 
 #Farsi
 [[languages.fa.menu.main]]
     url = "/fa/page/"
     name = "Projects"
     weight = 4
-[[languages.fa.menu.icon]]
-    url = "https://github.com/ngolimi/"
-    name = "github"
-    weight = 2
-[[languages.fa.menu.icon]]
-    url = "https://www.linkedin.com/company/ngolimi"
-    name = "linkedin"
-    weight = 4
-[[languages.fa.menu.icon]]
-    url = "https://twitter.com/ngolimi/"
-    name = "twitter"
-    weight = 3
+#[[languages.fa.menu.icon]]
+    #url = "https://github.com/ngolimi/"
+    #name = "github"
+    #weight = 2
+#[[languages.fa.menu.icon]]
+    #url = "https://www.linkedin.com/company/ngolimi"
+    #name = "linkedin"
+    #weight = 4
+#[[languages.fa.menu.icon]]
+    #url = "https://twitter.com/ngolimi/"
+    #name = "twitter"
+    #weight = 3

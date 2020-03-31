@@ -1,12 +1,12 @@
 ---
-title: "ngolimi?"
+title: "ngolimi ?"
 date: 2020-03-24T07:38:37+01:00
 type: page
 menu: main
 weight: 1
 ---
 # ngolimi
-...  signifie _par la parole_ en langue zouloue. Et que serait plus logique qu'un nom zoulou pour le projet à but non-lucratif d'une linguiste informaticienne iranienne et d'un ingénieur linguiste allemand, les deux résidents en Suisse francophone ?
+...  signifie _par la parole_ en langue zouloue. Quoi de plus logique qu'un nom zoulou pour le projet à but non-lucratif d'une linguiste informaticienne iranienne et d'un ingénieur linguiste allemand, les deux résidant en Suisse francophone ?
 
 {{< rawhtml >}}
 <table>
@@ -25,5 +25,5 @@ Peut-être que c'est cela, le _ngo_ dans _ngolimi_ ?
 
 De la stratégie à l'implémentation — nous vous aidons à communiquer avec vos audiences dans les langues qu'elles parlent vraiment.
 ### Présenter les meilleures pratiques en technologie linguistique
-Il est difficile de rester à jour des progrès en technologies du langage. Nous montrons comment les utiliser pour une stratégie de communication qui tire pleinement profit de la richesse linguistique du monde.
+Il est difficile de rester à jour avec les progrès en technologies du langage. Nous montrons comment les utiliser pour une stratégie de communication qui tire pleinement profit de la richesse linguistique du monde.
 

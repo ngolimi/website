@@ -1,9 +1,9 @@
 ---
 title: "ngolimi?"
 date: 2020-03-24T07:38:37+01:00
-weight: 1
-draft: true
+type: page
 menu: main
+weight: 1
 ---
 
 # ngolimi
@@ -13,7 +13,7 @@ menu: main
 <table>
 <tr><td>
 <img src="https://ngolimi.org/Hanieh_Habibi.jpg" alt="Hanieh Habibi" style="width:150px"/>
-</td><td>
+</td><td style="padding: 15px;">
 <img src="https://ngolimi.org/Mirko_Plitt.jpg" alt="Mirko Plitt" style="width:150px"/>
 </td>
 </tr>
