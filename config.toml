@@ -6,6 +6,7 @@ googleAnalytics = ""
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
+favicon = "/img/n-ngolimi-64-e.png"
 
 [languages]
   [languages.fa]
@@ -40,6 +41,7 @@ enableRobotsTXT = true
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    favicon = "/img/n-ngolimi-64-e.png"
 
 
 #English
