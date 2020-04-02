@@ -6,18 +6,39 @@
     <description>Recent content in Pages on ngolimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 07:38:37 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 07:38:37 +0100</lastBuildDate>
     
 	<atom:link href="https://ngolimi.org/en/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Our list of projects will be unveiled on March 31st</title>
-      <link>https://ngolimi.org/en/page/launch/</link>
-      <pubDate>Tue, 24 Mar 2020 07:38:37 +0100</pubDate>
+      <title>Open-source dictionary webapp</title>
+      <link>https://ngolimi.org/en/page/glossary/</link>
+      <pubDate>Tue, 31 Mar 2020 07:38:37 +0100</pubDate>
       
-      <guid>https://ngolimi.org/en/page/launch/</guid>
-      <description>Our list of projects will be unveiled on March 31st </description>
+      <guid>https://ngolimi.org/en/page/glossary/</guid>
+      <description>Open-source dictionary webapp Glossaries are the foundation of any &amp;ldquo;human&amp;rdquo; language work and multilingual dictionaries the most essential support for multilingual communication.
+Yet while there are many products and context-specific tools to create and manage terminology, the solutions generally available to share terminology publicly are scarce and in our view, not optimized for today&amp;rsquo;s online experience.
+This is the gap the ngolimi open-source dictionary webapp is meant to address. It offers any organization or individual who wants to share their terminology over the internet a framework to do so autonomously.</description>
+    </item>
+    
+    <item>
+      <title>Simple translation workflow management for NGOs</title>
+      <link>https://ngolimi.org/en/page/workflow/</link>
+      <pubDate>Tue, 31 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/en/page/workflow/</guid>
+      <description>Simple translation workflow management for NGOs Many NGOs understand the importance of multilingual communication but struggle to overcome the editorial and translation process overhead. One of the main challenges they&amp;rsquo;re facing is that source documents keep evolving, not the least due to internal approval requirements, while translations are already under way, and that in addition, the translated documents also have to undergo internal reviews, which tend to take time and can generate more overhead.</description>
+    </item>
+    
+    <item>
+      <title>Swiss government COVID-19 hackathon challenge: Speak the Truth</title>
+      <link>https://ngolimi.org/en/page/versusvirus/</link>
+      <pubDate>Tue, 31 Mar 2020 07:38:37 +0100</pubDate>
+      
+      <guid>https://ngolimi.org/en/page/versusvirus/</guid>
+      <description>Swiss government COVID-19 hackathon challenge: Speak the Truth ngolimi has been invited to take part in the Swiss government&amp;rsquo;s COVID-19 online hackathon. We do so both as participants and challenge owner.
+Our challenge: &amp;ldquo;Speak the Truth&amp;rdquo; Speakers of other languages than German, French, Italian and English, and the functionally illiterate (15% of Swiss adults) are cut from official COVID-19 information and therefore particularly vulnerable to the “infodemic” spreading on social media (eg.</description>
     </item>
     
   </channel>

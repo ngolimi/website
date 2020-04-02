@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://ngolimi.org/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://ngolimi.org/fr/about/"
                 />
@@ -20,6 +25,46 @@
                 hreflang="en"
                 href="https://ngolimi.org/en/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ngolimi.org/en/page/glossary/</loc>
+    <lastmod>2020-03-31T07:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ngolimi.org/en/page/</loc>
+    <lastmod>2020-03-31T07:38:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ngolimi.org/fa/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ngolimi.org/de/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ngolimi.org/fr/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ngolimi.org/en/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ngolimi.org/en/page/workflow/</loc>
+    <lastmod>2020-03-31T07:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ngolimi.org/en/page/versusvirus/</loc>
+    <lastmod>2020-03-31T07:38:37+01:00</lastmod>
   </url>
   
   <url>
@@ -44,56 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ngolimi.org/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ngolimi.org/en/page/launch/</loc>
-    <lastmod>2020-03-24T07:38:37+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ngolimi.org/fa/page/launch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ngolimi.org/de/page/launch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ngolimi.org/fr/page/launch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ngolimi.org/en/page/launch/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ngolimi.org/en/page/</loc>
-    <lastmod>2020-03-24T07:38:37+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ngolimi.org/fa/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ngolimi.org/de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ngolimi.org/fr/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ngolimi.org/en/page/"
                 />
   </url>
   

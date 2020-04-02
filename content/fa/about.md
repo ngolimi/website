@@ -19,7 +19,7 @@ weight: 1
 </table>
 {{< /rawhtml >}}
 
-## What we would like to do
+## What we do
 ### Language technology consultancy for NGOs, large and small
 Maybe that's the _ngo_ in _ngolimi_ ?
 From strategy to implementation — we want to help you communicate with your audiences in the languages they actually speak.

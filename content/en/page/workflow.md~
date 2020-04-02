@@ -1,0 +1,23 @@
+---
+title: "Simple tanslation workflow management for NGOs"
+date: 2020-03-31T07:38:37+01:00
+draft: false
+---
+# Simple translation workflow management for NGOs
+
+Many NGOs understand the importance of multilingual communication but struggle to overcome the editorial and translation process overhead. 
+One of the main challenges they're facing is that source documents keep evolving, not the least due to internal approval requirements, while translations are already under way, and that in addition, the translated documents also have to undergo internal reviews, which tend to take time and can generate more overhead. 
+
+All this makes it hard to ensure that a translation is up to date with both the latest version of its source document and the translation edits requested by internal approvers.  
+Teams who manage these processes in spreadsheets, as is the case in many organizations, are quickly overwhelmed. 
+
+These challenges are of course not unique to NGOs, and solutions do exist.
+
+ngolimi has designed a simple workflow solution that builds upon best practices in software development, where version and defect management are well established. 
+Using affordable off-the-shelf products immediately ready to be deployed, our approach makes it possible to know at any moment which edits and corrections are reflected in which language version of any document. 
+
+A common scenario such as the following will become a routine process:
+
+{{< rawhtml >}}
+<img src="/img/workflow.png" alt="ngolimi editorial and translation workflow" style="width:500px;border-color:black !important;border:10px;!important"/>
+{{< /rawhtml >}}

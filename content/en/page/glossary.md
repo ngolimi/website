@@ -1,0 +1,22 @@
+---
+title: "Open-source dictionary webapp"
+date: 2020-03-31T07:38:37+01:00
+draft: false
+---
+# Open-source dictionary webapp
+
+Glossaries are the foundation of any "human" language work and multilingual dictionaries the most essential support for multilingual communication.
+
+Yet while there are many products and context-specific tools to create and manage terminology, the solutions generally available to share terminology publicly are scarce and in our view, not optimized for today's online experience. 
+
+This is the gap the ngolimi open-source dictionary webapp is meant to address. It offers any organization or individual who wants to share their terminology over the internet a framework to do so autonomously. 
+We've chosen webapp technology because of its versatility and pleasant user experience across device types, from computers to Android and iOS phone, and even KaiOS phones (a new generation of "dumb" smartphones popular in some emerging economies). 
+Dictionaries built in our webapp framework even work offline.
+
+This framework is already being used by [Translators without Borders](https://www.translatorswithoutborders.org), eg. for their important terminology work in the context of the COVID-19 crisis: [https://www.translatorswb.org/covid19](https://glossaries.translatorswb.org/covid19).   
+
+A demo of the ngolimi development version of the webapp is available here: [https://ngolimi.org/nglossary](https://ngolimi.org/nglossary).
+
+{{< rawhtml >}}
+<img src="/img/glossary2f.jpg" alt="nglossary" style="width:150px;border-color:black !important;border:10px;!important"/>
+{{< /rawhtml >}}
